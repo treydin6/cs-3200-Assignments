@@ -1,0 +1,129 @@
+body {
+	background-color: #DEDEDE;
+}
+
+h1 {
+	text-align: center;
+	margin-top: 25px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+	margin-top: 0px;
+	text-align: center;
+	font-size: 30px;
+	font-family: Arial, Helvetica, sans-serif;
+
+}
+
+ul {
+	margin-bottom: 0px;
+}
+
+li{
+	list-style: none;
+}
+
+/***** ID's *****/
+#ToDoInput{
+	border-radius: 0.25rem;
+}
+
+#date{
+	border-radius: 0.25rem;
+}
+
+#class{
+	border-radius: 0.25rem;
+}
+
+#subject{
+	border-radius: 0.25rem;
+}
+
+
+#center {
+	margin-top: 23px;
+	text-align: center;
+	
+}
+
+#inputs {
+	width: 250px;
+	height: 304px;
+
+}
+
+/* Controls the style of the inputs added/ style here. */
+#list{
+	text-align: left;
+    width: 275px;
+    margin: 0 auto;
+}
+
+#AppendTODOs{
+	list-style-type:none;
+	margin-top: 15px;
+	font-family: "Times New Roman", serif;
+	/*font-style: italic;*/
+
+}
+
+#Listed{
+	text-align: left;
+	width: 500px;
+	margin: 0 auto;
+
+
+}
+/* div for clear button		*/
+#ClearTodo {
+	margin-top: 50px;
+}
+
+/* clear button*/
+#clear {
+
+}
+
+/**** classes *****/
+.Assignment-style{
+	/*border: 1px solid black;*/
+	margin: 10px;
+	padding: 10px;
+	/*width: 300px;*/
+}
+
+.todos-name{
+	font-size: 25px;
+	font-weight: bold;
+}
+
+.todos-ddate{
+	font-weight: bold;
+}
+
+.todos-class{
+	font-weight: bold;
+}
+
+.todos-subject{
+	font-weight: bold;
+}
+
+.todos-delete{
+	color: #fff;
+  	background-color: #28a745;
+  	border-color: #28a745;
+  	border-radius: 0.25rem;
+  	margin-right: 10px;
+
+}
+
+.todos-update{
+	border-radius: 0.25rem;
+}
+
+
+
+

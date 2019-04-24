@@ -1,0 +1,50 @@
+{
+  "text": "___, looks like you are eating ___ tonight"
+  "Sandwich": [
+    "Jimmy Johns",
+    "Subway",
+    "Port of Subs",
+    "Even Stevens"
+  ],
+  "text": "___, looks like you are eating ___ tonight"
+  "Fastfood": [
+    "McDonalds",
+    "In-n-Out",
+    "Burger King",
+    "Wendys",
+    "Panda Express",
+    "Taco Bell",
+    "Taco Time"
+  ],
+  "text": "___, looks like you are eating ___ tonight"
+  "Sitdown": [
+    "Sakura",
+    "Olive Garden",
+    "Peppers"
+  ]
+}
+
+
+{
+  "text": "___, looks like you are eating ___ tonight",
+  "Sandwich": [
+    "Jimmy Johns",
+    "Subway",
+    "Port of Subs",
+    "Even Stevens"
+  ],
+  "Fastfood": [
+    "McDonalds",
+    "In-n-Out",
+    "Burger King",
+    "Wendys",
+    "Panda Express",
+    "Taco Bell",
+    "Taco Time"
+  ],
+  "Sitdown": [
+    "Sakura",
+    "Olive Garden",
+    "Peppers"
+  ]
+}

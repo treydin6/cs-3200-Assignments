@@ -1,0 +1,70 @@
+body {
+	background-color: #DEDEDE;
+}
+
+h1 {
+	text-align: center;
+	margin-top: 25px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+	margin-top: 0px;
+	text-align: center;
+	font-size: 30px;
+	font-family: Arial, Helvetica, sans-serif;
+
+}
+
+ul {
+	margin-bottom: 0px;
+}
+
+li{
+	list-style: none;
+}
+
+/***** ID's *****/
+
+#center {
+	margin-top: 23px;
+	text-align: center;
+	
+}
+
+#input {
+	width: 250px;
+	height: 34px;
+}
+
+/* Controls the style of the inputs added/ style here. */
+#list{
+	text-align: left;
+    width: 275px;
+    margin: 0 auto;
+}
+
+#AppendTODOs{
+	list-style-type:none;
+	margin-top: 15px;
+}
+
+/* div for clear button		*/
+#ClearTodo {
+	margin-top: 50px;
+}
+
+/* clear button*/
+#clear {
+
+}
+
+/**** classes *****/
+
+
+
+
+
+
+
+

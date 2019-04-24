@@ -1,0 +1,184 @@
+body {
+	background-color: #DEDEDE;
+}
+
+h1 {
+	text-align: center;
+	margin-top: 25px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+h3 {
+	margin-top: 0px;
+	text-align: center;
+	font-size: 30px;
+	font-family: Arial, Helvetica, sans-serif;
+
+}
+
+ul {
+	margin-bottom: 0px;
+}
+
+li{
+	list-style: none;
+}
+
+
+/*--->>> Centers everything <<<---*/
+#center {
+	margin-top: 23px;
+	text-align: center;
+}
+
+
+/*--->>> Main Page inputs for assignment, date, subject, class <<<---*/
+#ToDoInput{
+	border-radius: 0.25rem;
+}
+
+#date{
+	border-radius: 0.25rem;
+}
+
+#class{
+	border-radius: 0.25rem;
+}
+
+#subject{
+	border-radius: 0.25rem;
+}
+
+#inputs {
+	width: 250px;
+	height: 304px;
+}
+
+
+/*--->>> Controls the style of the inputs added/ style here. <<<---*/
+/*--->>> Appending todos style <<<---*/
+/*#list{
+	text-align: left;
+    width: 275px;
+    margin: 0 auto;
+}*/
+
+#AppendTODOs{
+	list-style-type:none;
+	margin-top: 15px;
+	font-family: "Times New Roman", serif;
+}
+
+#Listed{
+	text-align: left;
+	width: 500px;
+	margin: 0 auto;
+}
+
+
+/*--->>> div for clear button <<<---*/
+#ClearTodo {
+	margin-top: 50px;
+}
+
+
+/*--->>> Classes added in Javascript <<<---*/
+/*--->>> For adding homework todos<<<---*/
+.Assignment-style{
+	/*border: 1px solid black;*/
+	margin: 10px;
+	padding: 10px;
+	/*width: 300px;*/
+}
+
+.todos-name{
+	font-size: 25px;
+	font-weight: bold;
+}
+
+.todos-ddate{
+	font-weight: bold;
+}
+
+.todos-class{
+	font-weight: bold;
+}
+
+.todos-subject{
+	font-weight: bold;
+}
+
+.todos-delete{
+	color: #fff;
+  	background-color: #28a745;
+  	border-color: #28a745;
+  	border-radius: 0.25rem;
+  	margin-right: 10px;
+
+}
+
+.todos-update{
+	border-radius: 0.25rem;
+}
+
+
+/*--->>> Create new account <<<---*/
+#fname{
+	width: 120px;
+}
+
+#lname{
+	width: 120px;
+	margin-left: 10px;
+}
+
+#email{
+	width: 250px;
+}
+
+#password{
+	width: 250px;
+}
+
+
+/*--->>> Main sections (Login, Sign up, Main Page) <<<---*/
+#LoginPage{
+	margin-top: 75px;
+	/*display: none;*/
+}
+
+#CreateAccount{
+	margin-top: 75px;
+	/*display: none;*/
+}
+
+#MainPage{
+	margin-top: 75px;
+	/*display: none;*/
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
